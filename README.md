@@ -2,7 +2,7 @@
 ## AIM
 To Perform the various feature selection techniques on a dataset and save the data to a file. 
 
-# Explanation
+# EXPLANATION
 Feature selection is to find the best set of features that allows one to build useful models.
 Selecting the best features helps the model to perform well. 
 
@@ -19,4 +19,6 @@ Save the data to the file
 
 # CODE
 
-# OUPUT
+# OUTPUT
+
+# RESULT
