@@ -138,18 +138,31 @@ print(selected_features)
 # OUTPUT
 
 ## Data Cleaning and Processing
+I
+
 <img width="206" alt="s1" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-07/assets/113674204/b6b3667e-f32d-4046-9a6e-ff5767eb2b35">
+
+II
 
 <img width="152" alt="s2" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-07/assets/113674204/e7629464-b4be-4bc5-b827-70970a115462">
 
+III
+
 <img width="403" alt="s3" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-07/assets/113674204/c06c69f9-35b7-4176-8eaa-1aaa35e32ee8">
+
+IV
 
 <img width="271" alt="s4" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-07/assets/113674204/ee6f3f84-14a1-45a8-81b2-0cdfc646486c">
 
+V
+
 <img width="127" alt="s5" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-07/assets/113674204/93b10952-86be-4bc8-ae5b-0d795c4ae0b0">
+
+VI
 
 <img width="137" alt="s6" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-07/assets/113674204/f29e9632-a48f-4612-9e89-5671e55d69d3">
 
+VII
 <img width="127" alt="s7" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-07/assets/113674204/bd1a9e04-3be2-4d2e-9237-89253d459e27">
 
 ## Filter Method
